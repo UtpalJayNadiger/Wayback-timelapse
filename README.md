@@ -1,4 +1,4 @@
-# Wayback-timelapse
+# Wayback-timelapse-utpal
 Automatically create GIFS of a website's history
 
 
